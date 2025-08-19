@@ -41,28 +41,28 @@ Bu proje, Python dili kullanılarak geliştirilmiş bir Kütüphane Yönetim Sis
 ---
 
 ## 📂 Proje Dosya Yapısı
-├── app.py                  # FastAPI uç noktaları
+├── app.py                       # FastAPI uç noktaları
 
-├── book.py                 # Book sınıfı
+├── book.py                      # Book sınıfı
 
-├── library.py              # Library sınıfı
+├── library.py                   # Library sınıfı
 
-├── main.py                 # Konsol uygulaması
-
-├── requirements.txt        # Bağımlılıklar
+├── main.py                      # Konsol uygulaması
+  
+├── requirements.txt             # Bağımlılıklar
 
 │
-├── test_book.py            # Book sınıfı testleri
+├── test_book.py                 # Book sınıfı testleri
 
-├── test_library.py         # Library sınıfı testleri
+├── test_library.py              # Library sınıfı testleri
 
-├── test_library_api.py     # API fonksiyon testleri
+├── test_library_api.py          # API fonksiyon testleri
 
-├── test_api.py             # FastAPI endpoint testleri
+├── test_api.py                   # FastAPI endpoint testleri
 
 ├── test_library_save_load.py # JSON kaydetme/yükleme testleri
 
-├── isbn_test.py            # ISBN testleri
+├── isbn_test.py                  # ISBN testleri
 
 Sanal Ortam için:
 python -m venv venv
