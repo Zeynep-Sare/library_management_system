@@ -1,4 +1,4 @@
-# 📘 Libraru_management_system
+# 📘 Library_management_system
 
 Python & FastAPI tabanlı kütüphane yönetim sistemi (3 aşamalı proje)
 
